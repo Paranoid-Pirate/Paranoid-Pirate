@@ -27,9 +27,9 @@ using C++ and Python
 
 > I have a few github repositories you could check out
 Here are a few examples:
-
-- Cpp-Calculator
-
+>
+> - Cpp-Calculator
+>
 > - py-locker
 
 ## - How can you contact me
