@@ -26,6 +26,11 @@ using C++ and Python
 ## Were Can You See My Skills?
 
 > I have a few github repositories you could check out
+Here are a few examples:
+
+- Cpp-Calculator
+
+> - py-locker
 
 ## - How can you contact me
 
