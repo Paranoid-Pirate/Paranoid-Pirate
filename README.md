@@ -16,6 +16,13 @@ I am a programmer and developer, i work in
 I am currently working on a few repositories  
 using C++ and Python
 
+## - What Frameworks Do i Know?
+
+> - Ruby on Rails
+> - Django
+> - Vue.js
+> - Node.js
+
 ## - How can you contact me
 
 - support@support.email
