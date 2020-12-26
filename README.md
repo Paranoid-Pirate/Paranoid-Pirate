@@ -1,16 +1,21 @@
-### Hi there 👋
+# Paranoid-Pirate
 
-<!--
-**Paranoid-Pirate/Paranoid-Pirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## - Who Am i?
 
-Here are some ideas to get you started:
+I am a programmer and developer, i work in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> - C++
+> - Python
+> - Ruby
+> - JavaScript
+> - HTML
+> - CSS
+
+## - What Am i Working On?
+
+I am currently working on a few repositories  
+using C++ and Python
+
+## - How can you contact me
+
+- support@support.email
