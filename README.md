@@ -23,6 +23,10 @@ using C++ and Python
 > - Vue.js
 > - Node.js
 
+## Were Can You See My Skills?
+
+> I have a few github repositories you could check out
+
 ## - How can you contact me
 
 - support@support.email
