@@ -1,37 +1,13 @@
-# Paranoid-Pirate
+# Who am i?
 
-## - Who Am i?
+> I am a developer who works in object orinted programming languages and web development
 
-I am a programmer and developer, i work in
+## Contact Me
 
-> - C++
-> - Python
-> - Ruby
-> - JavaScript
-> - HTML
-> - CSS
+> {DISCORD}  
+{EMAIL}  
+{TWITTER}  
 
-## - What Am i Working On?
+## What Have i Done Recently?
 
-I am currently working on a few repositories  
-using C++ and Python
-
-## - What Frameworks Do i Know?
-
-> - Ruby on Rails
-> - Django
-> - Vue.js
-> - Node.js
-
-## Were Can You See My Skills?
-
-> I have a few github repositories you could check out  
-> Here are a few examples:
->
-> - Cpp-Calculator
->
-> - py-locker
-
-## - How can you contact me
-
-- support@support.email
+<!--TODO: Add wakatime-->
