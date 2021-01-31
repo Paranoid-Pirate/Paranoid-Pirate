@@ -12,6 +12,7 @@ under 50 and the languages i know are listed below
 - Python
 - Ruby
 - Rust
+- Bash
 - HTML/CSS
 ```
 
