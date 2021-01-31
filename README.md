@@ -6,7 +6,7 @@ under 50 and the languages i know are listed below
 
 ## What languages do i know?
 
-```bash
+```s
 - C++
 - Java
 - Python
