@@ -1,30 +1,36 @@
-# Who am i?
+# Who Am I?
 
-I am a developer who works with mostly  
-in software development. I am at least  
-under 50 and the languages i know are listed below
+I am a software developer, I develop in mostly low-level languages. I strive to never use Java however it is inevitable that I will.
 
-## What languages do i know?
+## What Am I Working On?
 
-```s
+I Am currently working on two projects
+
+1. [MusicMan](https://github.com/Paranoid-Pirate/musicman)
+2. [PseudoPersonGen](https://github.com/Paranoid-Pirate/pseudo_person_gen)
+
+## What Are My Past Projects?
+
+Sadly I am decently new to software development so i have no major projects
+
+## What Languages Do I Know?
+
+```c
 - C++
-- Java
 - Python
-- Ruby
+- Java
 - Rust
-- Bash
-- HTML/CSS
+- Html
+- Css
 ```
 
-## Contact Me
+## How Can You Contact Me?
 
-> Discord: user_id#4503  
+> Email:
 >
->- UserID```(768929943073062972)```
-
-## What Have i Done Recently?
-
-I've been mainly working on C++ projects;  
-however i do strive to learn Rust.
-
-<!--TODO: Add wakatime-->
+>* contactme.migs@simplelogin.co
+>
+> Discord:
+>* user_id#4503
+> 
+>* UUID: ``768929943073062972``
