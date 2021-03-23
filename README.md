@@ -31,6 +31,7 @@ Sadly I am decently new to software development so i have no major projects
 >* contactme.migs@simplelogin.co
 >
 > Discord:
+>
 >* user_id#4503
-> 
+>
 >* UUID: ``768929943073062972``
