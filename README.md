@@ -19,6 +19,6 @@ Im a linux kiddie
 >
 > Discord:
 >
->* user_id#4503
+>* username#1252
 >
->* UUID: ``768929943073062972``
+>* UUID: ``848218814968627251``
